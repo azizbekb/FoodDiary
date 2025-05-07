@@ -7,19 +7,12 @@ Clicking the "Add Food" button will then add their respective inputs into the fo
 As a lover of fitness and programming I wanted to challenge myself with a language and programming style I've never done before. So I combined my passions to create a simple
 fitness related app. As I hope to pursue some form of app development in my professional career this was a good first venture into programming with Kotlin.
 
-[Software Demo Video](https://youtu.be/ojO1GqWPIu8)
-
 # Development Environment
 
 For this project I used Android Studio. Android Studio was a really nice IDE to use as the XML files are very easily manipulated within this IDE, which made for easy
 formatting and arranging of the GUI.
 
 For this app I used Kotlin. I used the kotlin android extensions library to aid with importing within the project.
-
-# Useful Websites
-
-- [Programmiz](https://www.programiz.com/kotlin-programming/variable-types)
-- [Developers](https://developer.android.com/courses/android-basics-kotlin/course)
 
 # Future Work
 
